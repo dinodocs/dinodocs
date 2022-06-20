@@ -2,6 +2,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Murillo+Ferreira+da+Rosa;Tenho+20+anos+de+idade;Sou+do+Brasil,+RS;Eu+estudo+desenvolvimento+fullstack+na+GrowDev;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
+<hr>
+
+<h4>Hobbies<h4/>
+<li>Tocar guitarra
+<li>Programar
+<li>Jogar no computador
+
+<h4>Experiências Profissionais<h4/>
+<li>Auxiliar de Cartório - Registro de Imóveis
+
+<h4>Linguagem de Programação Favorita<h4/>
+<li>HTML
+
+<h4>O que estou estudando atualmente?<h4/>
+<li>HTML
+<li>CSS
+<li>GitHub
+
+<hr>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dinodocs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinodocs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
