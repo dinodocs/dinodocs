@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Murillo Ferreira da Rosa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Murillo+Ferreira+da+Rosa;Tenho+20+anos+de+idade;Sou+do+Brasil,+RS;Eu+estudo+desenvolvimento+fullstack+na+GrowDev;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Murillo+Ferreira+da+Rosa;Tenho+22+anos+de+idade;Sou+do+Brasil,+RS;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <hr>
 
@@ -15,7 +15,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinodocs&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=dinodocs&theme=gotham&hide_border=true&area=true)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dinodocs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
