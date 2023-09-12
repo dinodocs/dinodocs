@@ -4,21 +4,9 @@
 
 <hr>
 
-<h4>Hobbies<h4/>
-<li>Tocar guitarra
-<li>Programar
-<li>Jogar no computador
+<h3>Olá, tudo bem?</h3>
 
-<h4>Experiências Profissionais<h4/>
-<li>Auxiliar de Cartório - Registro de Imóveis
-
-<h4>Linguagem de Programação Favorita<h4/>
-<li>HTML
-
-<h4>O que estou estudando atualmente?<h4/>
-<li>HTML
-<li>CSS
-<li>GitHub
+<p>Desenvolvedor Front-End | Javascript | React | CSS | HTML5 | Bootstrap </p>
 
 <hr>
 
